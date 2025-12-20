@@ -5,6 +5,9 @@
 # Evolutionary architecture
 https://github.com/evolutionary-architecture/evolutionary-architecture-by-example
 
+# ADR - architecture decission records
+https://github.com/joelparkerhenderson/architecture-decision-record
+
 # Kamil Grzybek's git
 https://github.com/kgrzybek/modular-monolith-with-ddd
 
