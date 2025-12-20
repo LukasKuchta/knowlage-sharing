@@ -1,4 +1,6 @@
-# knowlage-sharing
+# My knowlage resources
+
+![Project paradox](./project_paradox.png)
 
 # Evolutionary architecture
 https://github.com/evolutionary-architecture/evolutionary-architecture-by-example
